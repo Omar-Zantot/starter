@@ -20,7 +20,6 @@ When we need to make JavaScript interact with the webpage, we use the DOM (Docum
 - For each element in the HTML, there is a corresponding node in the DOM tree.
 - We can interact with and access each node using JavaScript.
 - The `document` object is the entry point to the DOM.
-- The root element in the DOM tree is always the HTML element.
 
 > Everything in the HTML has a representation in the DOM!
 
