@@ -136,11 +136,12 @@ h1 {
 
   .left,
   .right {
-    width: 60%;
+    width: 80%;
   }
 
   .right {
     font-size: 1.5rem;
+    text-align: center;
   }
 
   .guess {
@@ -169,6 +170,11 @@ h1 {
 
   .label-score {
     margin-bottom: 1.5rem;
+    text-align: left;
+  }
+
+  .label-highscore {
+    text-align: left;
   }
 
   .again {
@@ -181,6 +187,7 @@ h1 {
 
   h1 {
     font-size: 3rem;
+    line-height: 1.5;
   }
 
   .number {
