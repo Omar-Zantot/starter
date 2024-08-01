@@ -2,7 +2,7 @@
 
 After a long break, I'm excited to be back in the world of coding!💻 I'm starting with a refresher on the Document Object Model (DOM), a fundamental concept for making JavaScript interact with web pages.
 
-### What I Learned 💡
+### What I Learned  💡
 
 🔍 **DOM Basics:**
 * The DOM is like a map of your HTML elements.
